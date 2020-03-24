@@ -1,3 +1,4 @@
 public Class hh(){
 System.out.println("111");
+private int id；
 }
